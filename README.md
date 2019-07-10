@@ -9,5 +9,6 @@ https://access2perspectives.com/research-integrity/
 
 
 Reading suggestion: 
-Faking Science: A True Story of Academic Fraud by Diederik Stapel, Translated by Nicholas J. L. Brown 
+- Faking Science: A True Story of Academic Fraud by Diederik Stapel, Translated by Nicholas J. L. Brown 
 https://errorstatistics.files.wordpress.com/2014/12/fakingscience-20141214.pdf
+- https://www.vox.com/science-and-health/2019/1/4/17989224/intellectual-humility-explained-psychology-replication
